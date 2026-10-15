@@ -1,0 +1,5 @@
+# WorkBuddy 工作区数据（非项目文件）
+.workbuddy/
+
+# macOS 系统文件
+.DS_Store
